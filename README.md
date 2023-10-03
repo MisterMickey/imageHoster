@@ -1,2 +1,2 @@
 # imageHoster - Host Images for Auth0
-Dummy Repo to host auth0 images on GitHub Pages.
+Dummy Repo to host Auth0 images on GitHub Pages.
